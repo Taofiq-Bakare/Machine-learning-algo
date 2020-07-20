@@ -16,3 +16,10 @@ Chapter 2
         * If the house has window air conditioners
         * Type of house
         * And when the house was constructed
+
+    Limitations
+        The data is too dense
+        It does not have concrete information about air conditioning data
+
+    REDD_data
+        
